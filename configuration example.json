@@ -1,12 +1,12 @@
 {
-    "token": "",
-    "prefix": "?",
+    "token": "process.env.TOKEN",
+    "prefix": "t!",
     
     "playlistLimit": "15",
     "sponsorblock": true,
     
-    "spotifyClientId": "",
-    "spotifyClientSecret": "",
+    "spotifyClientId": "dd689a59c2e5453e8adc810a6225bfd6",
+    "spotifyClientSecret": "process.env.SpotifySecret",
 
     "dblToken": "",
 
